@@ -24,27 +24,6 @@ The model is trained using the **Breast Cancer Wisconsin (Diagnostic) Dataset**,
 
 More details on the dataset can be found [here](https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic)).
 
-## Installation & Usage
-### Requirements
-Ensure you have the following dependencies installed:
-```bash
-pip install numpy pandas scikit-learn matplotlib streamlit
-```
-
-### Running the Application
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/breast-cancer-diagnosis.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd breast-cancer-diagnosis
-   ```
-3. Run the Streamlit application:
-   ```bash
-   streamlit run app.py
-   ```
-
 ## Live Demo
 A live version of the application is available on **[Streamlit Community Cloud](https://breast-cancer-predictor-vjpdcdsbuuswpstgyuqrda.streamlit.app/)**.
 

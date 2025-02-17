@@ -29,5 +29,4 @@ A live version of the application is available on **[Streamlit Community Cloud](
 
 ## Limitations
 - **Not for Clinical Use:** This app is for educational purposes only and should not be used for real medical diagnoses.
-- **Dataset Reliability:** The dataset is reliable for educational and research purposes, particularly in machine learning applications. However, it should not be used for real-world medical diagnosis without     
-    further validation against contemporary medical standards and larger, more diverse datasets. 🚨
+- **Dataset Reliability:** The dataset is reliable for educational and research purposes, particularly in machine learning applications. However, it should not be used for real-world medical diagnosis without    further validation against contemporary medical standards and larger, more diverse datasets. 🚨
